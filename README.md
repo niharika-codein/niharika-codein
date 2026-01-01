@@ -38,4 +38,34 @@ B.Tech CSE Student (3rd Year)
 ### 🌿 Featured Projects
 *Wanderlust Farm Booking*  
 - Online platform to explore & book farmlands  
-- MVC architecture + backend management + clean
+- MVC architecture + backend management + clean UI  
+🔗 [GitHub Repository](https://github.com/niharika-codein/Wanderlust-farm-booking)
+
+*Weather Forecast (React)*  
+- Real-time weather info for any city  
+- Temp, humidity, min/max temp, conditions  
+- OpenWeatherMap API  
+🔗 [GitHub Repository](https://github.com/niharika-codein/Weather-forecast-react)
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=niharika-codein&theme=dark&fire=orange&currStreakLabel=red" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=niharika-codein&show_icons=true&theme=dark&text_color=FFFFFF&icon_color=FF4500&title_color=FF6347" alt="GitHub Stats"/>
+</p>
+
+---
+
+### 📫 Contact
+📍 Hyderabad, India  
+📧 niharikastudentcse@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/budde-niharika-903297394)
+
+---
+
+### ✨ Fun Fact
+I enjoy learning new technologies by building real-world projects step by step.
