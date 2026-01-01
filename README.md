@@ -1,4 +1,4 @@
-👋 Hi, I'm Niharika  
+#👋 Hi, I'm Niharika  
 
 ✨ Aspiring Full-Stack Developer | 📘 DSA Learner  
 
