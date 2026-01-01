@@ -1,79 +1,85 @@
-# 👋 Hi, I'm Niharika
+<p align="center">
+  <img src="https://via.placeholder.com/800x150/FFFFFF/000000?text= " alt="white-background"/>
+</p>
 
-✨ Aspiring Full-Stack Developer | 📘 DSA Learner  
+<h1 align="center">👋 Hi, I'm Niharika</h1>
+<p align="center">
+✨ Aspiring Full-Stack Developer | 📘 DSA Learner
+</p>
 
 ---
 
 ### 🎓 About Me
-B.Tech CSE Student (3rd Year)  
-💻 Skilled in Full-Stack Web Development (MERN Stack)  
-📚 Currently improving Data Structures & Algorithms  
-🎯 Goal: Become a Full-Stack Engineer  
+<p align="center">
+B.Tech CSE Student (3rd Year) <br/>
+💻 Skilled in Full-Stack Web Development (MERN Stack) <br/>
+📚 Currently improving Data Structures & Algorithms <br/>
+🎯 Goal: Become a Full-Stack Engineer
+</p>
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 
 #### 🌐 Languages
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="50" height="50"/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="60" height="60"/>
 </p>
 
 #### 🛠️ Tools
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="50" height="50"/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="60" height="60"/>
 </p>
 
 ---
 
 ### 🌿 Featured Projects
-
-*Wanderlust Farm Booking*  
-- Online platform to view, explore, and book farmlands for events and tourism  
-- Built using MVC architecture for scalability and maintainability  
-- Implemented backend management with a clean UI  
-
+<p align="center">
+*Wanderlust Farm Booking* <br/>
+- Online platform to explore & book farmlands <br/>
+- MVC architecture + backend management + clean UI <br/>
 🔗 [GitHub Repository](https://github.com/niharika-codein/Wanderlust-farm-booking)
+</p>
 
-*Weather Forecast Application (React)*  
-- React-based weather application providing real-time weather information  
-- Allows users to search any city  
-- Displays temperature, humidity, min/max temperature, and weather conditions  
-- Integrated OpenWeatherMap API  
-
+<p align="center">
+*Weather Forecast (React)* <br/>
+- Real-time weather info for any city <br/>
+- Temp, humidity, min/max temp, conditions <br/>
+- OpenWeatherMap API <br/>
 🔗 [GitHub Repository](https://github.com/niharika-codein/Weather-forecast-react)
+</p>
 
 ---
 
-### 📊 Certifications & Activities
-- Power BI Workshop — OfficeMaster  
-- Full-Stack Web Development — Apna College  
-- Data Structures & Algorithms — Apna College  
-- HR Conclave 2024 — Active Participant, Gurunanak Institutions, Hyderabad  
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=niharika-codein&theme=dark&fire=orange&currStreakLabel=red" alt="GitHub Streak"/>
+</p>
 
----
-
-### 🔥 GitHub Activity
-Consistently learning and improving through daily practice and projects  
-
-![GitHub Streak](https://streak-stats.demolab.com?user=niharika-codein)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=niharika-codein&show_icons=true&theme=dark&text_color=FFFFFF&icon_color=FF4500&title_color=FF6347" alt="GitHub Stats"/>
+</p>
 
 ---
 
 ### 📫 Contact
-📍 Hyderabad, India  
-📧 Email: niharikastudentcse@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/budde-niharika-903297394)
+<p align="center">
+📍 Hyderabad, India <br/>
+📧 niharikastudentcse@gmail.com <br/>
+🔗 <a href="https://www.linkedin.com/in/budde-niharika-903297394">LinkedIn</a>
+</p>
 
 ---
 
 ### ✨ Fun Fact
+<p align="center">
 I enjoy learning new technologies by building real-world projects step by step.
+</p>
