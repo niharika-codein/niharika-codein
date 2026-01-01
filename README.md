@@ -50,11 +50,11 @@ B.Tech CSE Student (3rd Year)
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=niharika-codein&show_icons=true&theme=dark&text_color=FFFFFF&icon_color=FF4500&title_color=FF6347" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=niharika-codein&show_icons=true&theme=dark&count_private=true&hide_border=true" alt="GitHub Stats"/>
 </div>
 
 <div align="center" style="margin-top:10px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=niharika-codein&theme=dark&fire=orange&currStreakLabel=red" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=niharika-codein&theme=dark&fire=orange&currStreakLabel=red&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 ---
