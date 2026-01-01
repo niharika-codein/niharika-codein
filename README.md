@@ -35,12 +35,12 @@ B.Tech CSE Student (3rd Year)
 
 ### 🌿 Featured Projects
 
-*Wanderlust Farm Booking*  
+Wanderlust Farm Booking  
 - Online platform to explore & book farmlands  
 - MVC architecture + backend management + clean UI  
 🔗 [GitHub Repository](https://github.com/niharika-codein/Wanderlust-farm-booking)
 
-*Weather Forecast (React)*  
+Weather Forecast (React)  
 - Real-time weather info for any city  
 - Temp, humidity, min/max temp, conditions  
 - OpenWeatherMap API  
@@ -48,13 +48,11 @@ B.Tech CSE Student (3rd Year)
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com?user=niharika-codein&theme=radical&background=0D1117&ring=FF4D4D&fire=FF4D4D&currStreakLabel=FF4D4D&hide_border=true"
-    alt="GitHub Streak Stats"
-  />
-</p>
+### 🏆 Certifications & Activities
+- Power BI Workshop — OfficeMaster  
+- Full-Stack Web Development — Apna College  
+- Data Structures & Algorithms — Apna College  
+- HR Conclave 2024 — Active Participant, Gurunanak Institutions, Hyderabad  
 
 ---
 
@@ -62,6 +60,16 @@ B.Tech CSE Student (3rd Year)
 📍 Hyderabad, India  
 📧 niharikastudentcse@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/budde-niharika-903297394)
+
+---
+
+### 📊 GitHub Streak
+<p align="center">
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com?user=niharika-codein&theme=radical&background=0D1117&ring=FF4D4D&fire=FF4D4D&currStreakLabel=FF4D4D&hide_border=true"
+    alt="GitHub Streak Stats"
+  />
+</p>
 
 ---
 
