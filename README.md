@@ -3,8 +3,8 @@
 
 ---
 
-### 🎓 About Me
-B.Tech CSE Student (3rd Year)  
+### 🚀 About Me About Me
+🎓B.Tech CSE Student (3rd Year)  
 💻 Skilled in Full-Stack Web Development (MERN Stack)  
 📚 Currently improving Data Structures & Algorithms  
 🎯 Goal: Become a Full-Stack Engineer  
